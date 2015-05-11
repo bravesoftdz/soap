@@ -6,7 +6,6 @@
   <artifactId>soap</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>[TODO]Camel CXF Contract First Example</name>
-  <description>Creates a web service using the WSDL contract first</description>
   <dependencies>
     <dependency>
       <groupId>org.apache.camel</groupId>
@@ -215,4 +214,5 @@
       </plugin>
     </plugins>
   </build>
+  <description>accessing SOAP webservice using RESTful</description>
 </project>
